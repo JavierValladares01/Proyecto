@@ -1,0 +1,7 @@
+C:\Users\JavierWin7\Desktop\VS\nuevoobligatorio2\nuevoobligatorio2\bin\Debug\nuevoobligatorio2.exe
+C:\Users\JavierWin7\Desktop\VS\nuevoobligatorio2\nuevoobligatorio2\bin\Debug\nuevoobligatorio2.pdb
+C:\Users\JavierWin7\Desktop\VS\nuevoobligatorio2\nuevoobligatorio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JavierWin7\Desktop\VS\nuevoobligatorio2\nuevoobligatorio2\obj\x86\Debug\nuevoobligatorio2.exe
+C:\Users\JavierWin7\Desktop\VS\nuevoobligatorio2\nuevoobligatorio2\obj\x86\Debug\nuevoobligatorio2.pdb
+Z:\nuevoobligatorio2\nuevoobligatorio2\obj\x86\Debug\nuevoobligatorio2.exe
+Z:\nuevoobligatorio2\nuevoobligatorio2\obj\x86\Debug\nuevoobligatorio2.pdb
